@@ -1,0 +1,324 @@
+body{
+    margin: 10px;
+    margin-left: 30px;
+    margin-right: 30px;
+    height: auto;
+    margin-bottom: 40px;
+}
+header{
+    justify-content: center; 
+    align-items: center;
+    display:flex ;
+    background-color: black;
+    color: rgba(255, 255, 255, 0.973);
+
+}
+.Container{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 25px;
+}
+.Navigation-Bar ul{
+    display: flex;
+}
+.Navigation-Bar li{
+    display: block;
+    padding: 10px;
+}
+.Navigation-Bar a{
+color: black;
+text-decoration: none;
+
+}
+.Icon-Bar{
+    margin-top: 25px;
+
+  display: flex;  
+}
+.Icon-Bar ul{
+    display: flex;
+    margin-top: -10px;
+
+}
+.Icon-Bar li{
+    display: block;
+
+}
+.Icon-Bar img{
+ height: 20px;
+ width: 20px;
+ padding:10px ;
+
+}
+.Container2{
+    background-image: url("/img1.jpg");
+    background-size: cover;
+    background-repeat: none;
+    width: 1288px;
+    height: 400px;
+    position: relative;
+    color: rgba(255, 255, 255, 0.973);
+    border-radius: 30px;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
+    margin-right: px;
+    opacity: 1.8;
+}
+.Container2 h2{
+    position: absolute;
+    bottom: 80px;
+    margin: 10px;
+    width: 400px;
+    opacity: 5.8;
+
+}
+.Container2 p{
+    position: absolute;
+    bottom: 30px;
+    margin: 10px;
+    width: 400px;
+    opacity: 5.8;
+    font-size: medium;
+
+}
+#explore{
+    border-radius: 50px;
+    position: absolute;
+    right: 40px;
+    bottom: 30px;
+    padding: 13px 44px  ;
+    width: 120px;
+    opacity: 5.8;
+    text-align: center;
+    color: black;
+    background-color: rgba(255, 255, 255, 0.973);
+}
+.Container3{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.Container3 p{
+color: #959090;
+}
+.Container4{
+    display: flex;
+    justify-content: space-between;
+    border-radius:20px ;
+}
+.Container4 .Box1 img{
+   width: 300px;
+   height: 200px;
+}
+.Container4 .Box2 img{
+    width: 300px;
+    height: 200px;
+ }
+ .Container4 .Box3 img{
+    width: 300px;
+    height: 200px;
+ }
+ .Container4 .Box4 img{
+    width: 300px;
+    height: 200px;
+ }
+ .Container5{
+    display: flex;
+    justify-content: space-between;
+    border-radius:20px ;
+}
+.Container5 .Box1 img{
+   width: 300px;
+   height: 200px;
+}
+.Container5 .Box2 img{
+    width: 300px;
+    height: 200px;
+ }
+ .Container5 .Box3 img{
+    width: 300px;
+    height: 200px;
+ }
+ .Container5 .Box4 img{
+    width: 300px;
+    height: 200px;
+ }
+ .Container6{
+    border-radius: 30px;
+    margin-top: 152px;
+    
+}
+.Container6 img{
+width: 100%;   
+ border-radius: 30px;
+
+}
+.Container6 h2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Container6 h3 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    color: white;
+    border-radius: 50px;
+    width: 176px;
+    height: 55px;
+   
+}
+.Container6 .see-details{
+justify-content: center;
+align-items: center;
+display: flex;
+}
+.Container6 p{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    
+}
+ 
+.Container7{
+    display: flex;
+    margin-top: 75px;
+    justify-content: space-between;
+    border-radius:20px ;
+}
+.Container7 .Box1 {
+    background-image: url("image 130.png");
+    background-size: cover;
+    width: 300px;
+    height: 200px;
+    position: relative;
+    border-radius: 30px;
+ }
+ .Container7 .Box2 {
+    background-image: url("image 127.png");
+    background-size: cover;
+    position: relative;
+     width: 300px;
+     height: 200px;
+     border-radius: 30px;
+
+  }
+  .Container7 .Box3 {
+     background-image: url("image 126.png");
+    background-size: cover;
+    position: relative;
+     width: 300px;
+     height: 200px;
+     border-radius: 30px;
+
+  }
+  .Container7 .Box4 {
+    background-image: url("image 124.png");
+    background-size: cover;
+    position: relative;
+     width: 300px;
+     height: 200px;
+     border-radius: 30px;
+
+  }
+  .Container7  p{
+    position: absolute;
+    bottom: 10px;
+    margin: 10px;
+    width: 100px;
+    opacity: 5.8;
+    display: flex;
+    height: 30px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: white;
+    border-radius: 50px;
+
+}
+.Container7 h2{
+    position: absolute;
+    bottom: 40px;
+    margin: 10px;
+    width: 150px;
+    opacity: 5.8;
+    display: flex;
+    height: 30px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border-radius: 50px;
+    color: white;
+
+}
+.Container7 .Box2 h2{
+    right: 170px;
+}
+
+.Container7 .Box3 h2{
+    right: 150px;
+}
+
+.Container7 .Box4 h2{
+    right: 180px;
+}
+.Container8{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 70px;
+}
+.Container8 .Box1 input {
+border-radius: 55px;
+border: 1px solid black;
+padding: 15px 30px;
+}
+.Container8 .Box1 #submit{
+    background-color: black;
+    color: white;
+}
+ 
+
+.social-icon img{
+    width: 30px;
+    height: 30px;
+    margin-right:3px;
+
+}
+.foooter-background{
+    background-color: black;
+    height: 40px;
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    margin-top: 44px;
+}
+.foooter-background img{
+    width: 10px;
+    height: 10px;
+    margin-left: 15px ;
+    margin-right: 5px;
+    
+
+}
+.try {
+    color: white;
+    display: flex;
+    margin-top:3px ;
+}
+.try #pv{
+    margin-top:15px ;
+ 
+}
+.ph{
+
+    display: flex;
+    color: white;
+    justify-content: space-between;
+    
+}
+.ph p{
+    margin-left:10px ;
+    margin-right: 10px;
+    size: 16px;
+    font: inter;
+}
