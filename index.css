@@ -140,6 +140,8 @@ color: #959090;
     display: flex;
     justify-content: space-between;
     border-radius:20px ;
+    align-items: center;
+    align-content: center;
 }
 .Container5 p{
     font-size: 18px;
