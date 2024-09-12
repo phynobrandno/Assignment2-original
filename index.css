@@ -140,8 +140,7 @@ color: #959090;
     display: flex;
     justify-content: space-between;
     border-radius:20px ;
-    align-items: center;
-    align-content: center;
+    
 }
 .Container5 p{
     font-size: 18px;
@@ -165,7 +164,9 @@ color: #959090;
  .Container6{
     border-radius: 30px;
     margin-top: 152px;
-    
+    justify-content: center;
+    align-items: center;
+    align-content: center;
 }
 .Container6 img{
 width: 100%;   
